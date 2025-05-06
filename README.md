@@ -12,8 +12,7 @@ ChESS Py - The Chemical Similarity Suite for Python
 (c) 2025 by Christian Beringer (Center for Energy and Environmental Chemistry, Friedrich-Schiller-University Jena)
 
 The software should be cited in any publication like this:
-
-"ChESS (v1.0.0 Python), 2025, Christian Beringer, https://github.com/ChrBeringer/ChESS"
+"ChESS Chemical Similiarity Suite (v1.0.0 Python), 2025, Christian Beringer, https://github.com/ChrBeringer/ChESS"
 
 BibTEX:
 @misc{chess2025,
