@@ -8,20 +8,20 @@
 According to the GNU GPL under which these package and his algorithms is licenced - as far as the algorithms are not yet existing in any other products - every derivate of the software has to share the copyright of the original software.
 Copyright should be given in credential according to GNU GPL in this way:
 
-# ChESS Py - The Chemical Similarity Suite for Python
-# (c) 2025 by Christian Beringer (Center for Energy and Environmental Chemistry, Friedrich-Schiller-University Jena)
+### ChESS Py - The Chemical Similarity Suite for Python
+##ä (c) 2025 by Christian Beringer (Center for Energy and Environmental Chemistry, Friedrich-Schiller-University Jena)
 
 The software should be cited in any publication like this:
 "ChESS Chemical Similiarity Suite (v1.0.0 Python), 2025, Christian Beringer, https://github.com/ChrBeringer/ChESS"
 
-BibTEX:
-@misc{chess2025,
-  author       = {Christian Beringer},
-  title        = {{ChESS} (v1.0.0 Python) -- Chemical Similarity Suite},
-  year         = {2025},
-  howpublished = {\url{https://github.com/ChrBeringer/ChESS}},
-  note         = {Open-source chemical similarity toolkit},
-}
+> BibTEX:
+> @misc{chess2025,
+>  author       = {Christian Beringer},
+>  title        = {{ChESS} (v1.0.0 Python) -- Chemical Similarity Suite},
+>  year         = {2025},
+>  howpublished = {\url{https://github.com/ChrBeringer/ChESS}},
+>  note         = {Open-source chemical similarity toolkit},
+> }
 
 For further details please check the LICENCE-File!
 
