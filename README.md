@@ -8,10 +8,23 @@ ChESS Py - The Chemical Similarity Suite for Python
 (c) 2025 by Christian Beringer (Center for Energy and Environmental Chemistry, Friedrich-Schiller-University Jena)
 
 The software should be cited in any publication like this:
-ChESS (v1.0.0 Python), 07/2025, Christian Beringer, https://github.com/ChrBeringer/ChESS
+"ChESS (v1.0.0 Python), 2025, Christian Beringer, https://github.com/ChrBeringer/ChESS"
+
+BibTEX:
+@misc{chess2025,
+  author       = {Christian Beringer},
+  title        = {{ChESS} (v1.0.0 Python) -- Chemical Similarity Suite},
+  year         = {2025},
+  howpublished = {\url{https://github.com/ChrBeringer/ChESS}},
+  note         = {Open-source chemical similarity toolkit},
+}
 
 For further details please check the LICENCE-File!
 
+🤝 Contribution:
+Pull requests, issues or suggestions are welcome!
+Instead of a fork I am always open for contribution.
+Please read the CONTRIBUTING.md to participate.
 
 ## What is ChESS Py?
 ChESS Py (Chemical Similarity Suite for Python) is an open-source package for the analysis, visualization and processing of chemical similarity relationships. The suite provides a centralized collection of tools for investigating molecular similarities in compound sets, supporting structure elucidation, data exploration and structure-activity relationships.
@@ -36,8 +49,3 @@ e.g....
 
 Open Terminal and type:
  pip install chess-similarity
-
-
-🤝 Contribution:
-Pull requests, issues or suggestions are welcome!
-Please read the CONTRIBUTING.md to participate.
