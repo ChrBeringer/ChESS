@@ -1,5 +1,6 @@
 # ChESS Py - README
 
+![ChESS-Logo](assets/ChESS_logo.png)
 ## ⚖️ Licence/Legal Advice:
 According to the GNU GPL under which these package and his algorithms is licenced - as far as the algorithms are not yet existing in any other products - every derivate of the software has to share the copyright of the original software.
 Copyright should be given in credential according to GNU GPL in this way:
