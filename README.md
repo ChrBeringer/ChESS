@@ -49,4 +49,5 @@ e.g....
 ##🛠️ Installation
 
 Open Terminal and type:
- pip install chess-similarity
+pip install git+https://github.com/ChrBeringer/ChESS.git
+
