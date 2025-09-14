@@ -1,7 +1,7 @@
 # README: ChESS Py 1.0.0
 
 <p align="center">
-  <img src="assets/ChESS_banner.png" alt="ChESS Logo" width="250"/>
+  <img src="assets/ChESS_banner.png" alt="ChESS Logo" width="550"/>
 </p>
 
 ## ⚖️ Licence/Legal Advice:
